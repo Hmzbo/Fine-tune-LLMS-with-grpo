@@ -1,5 +1,5 @@
 # Fine-tune-LLMS-with-grp
-Fine-tune LLMs with GRPO algorithm video tutorial [link]()
+Fine-tune LLMs with GRPO algorithm video tutorial [link](https://youtu.be/zeMCLFvRq4Q)
 
 List of Unsloth notebooks [link](https://docs.unsloth.ai/get-started/unsloth-notebooks)
 
